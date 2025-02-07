@@ -1,7 +1,5 @@
 class Observer {
-    [void] Update([Subject]$subject) {
-        
-    }
+    [void] Update([Subject]$subject) {}
 }
 
 class Subject {
